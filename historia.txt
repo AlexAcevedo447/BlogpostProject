@@ -3,3 +3,6 @@ Estamos probando git desde consola.
 esto me esta interesando demasiado.
 
 estoy emocionado.
+
+ahora estamos realizando unas cosas que me hacen entender mas 
+facil el entendimiento de esta herramienta tan util.
